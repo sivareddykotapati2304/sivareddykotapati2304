@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Siva Reddy</h1>
 
-<!--
-**sivareddykotapati2304/sivareddykotapati2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="dark_mode.svg" alt="My ASCII Profile"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Aspiring Data Scientist | Python | SQL | Machine Learning</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+- 🎓 AIDS Student
+- 💻 Interested in Data Science and AI
+- 🌱 Currently learning Python, SQL and Machine Learning
+- 🚀 Building real-world projects
+
+### Skills
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+- Git & GitHub
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivareddykotapati2304&show_icons=true&theme=dark"/>
+</p>
